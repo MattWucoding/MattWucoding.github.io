@@ -1,0 +1,43 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mattwu-portfolio.000webhostapp.com" resolutions="1x" timestamp="1492147289940">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4196420916" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="mw-logo.png" crc="4090436791" seo="true" mt="1491070332000"/>
+    <file name="portfolio-ezs.pdf" crc="4208411695" seo="true" mt="1492146843000"/>
+    <file name="portfolio-ezv.pdf" crc="3922565443" seo="true" mt="1492127728000"/>
+    <file name="portfolio-hiit.pdf" crc="4188137688" seo="true" mt="1492124396000"/>
+    <file name="resume-mattwu-ux.pdf" crc="440984997" seo="true" mt="1491785617000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="mw-logo.png" crc="319139642" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ezsiconweb.jpg" crc="38170396" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u274-r.png" crc="225147196" ref="index"/>
+    <file name="hiit-todayhd.jpg" crc="4073909611" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ezv2iconweb.jpg" crc="99754211" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u267-r.png" crc="4090437345" ref="index"/>
+    <file name="u286-r.png" crc="248163779" ref="index"/>
+    <file name="photo.jpg" crc="3782553202" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4047744102" seo="true" mt="1492147192568" redirect="true"/>
+</manifest>
